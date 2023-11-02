@@ -1,5 +1,5 @@
 # The accumulation-metabolism nexus: internationalization, labour-capital relations, and material flows of French capitalism since the post-war era -- Replication kit
-This repository contains the code and data to replicate figures in __Cahen-Fourot L., Magalhães N., forthcoming, The accumulation-metabolism nexus: internationalization, labour-capital relations, and material flows of French capitalism since the post-war era__, _Socio-Economic Review_, available [here](LINK TO BE ADDED WHEN ARTICLE IS AVAILABLE ONLINE)
+This repository contains the R code and data to replicate figures in __Cahen-Fourot L., Magalhães N., forthcoming, The accumulation-metabolism nexus: internationalization, labour-capital relations, and material flows of French capitalism since the post-war era__, _Socio-Economic Review_, available [here](LINK TO BE ADDED WHEN ARTICLE IS AVAILABLE ONLINE)
 
 The code formats data in long format and generates the figures in order of appearance in the main article and the technical appendix.
 
