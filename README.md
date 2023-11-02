@@ -15,7 +15,7 @@ In addition, the code generates pdf files for all the figures, exported in the s
 
 ## Licences
 
-The data constructed by Louison Cahen-Fourot and Nelo Magalhães and the code are shared under a CC-BY-NC-SA 4.0 license. Copyright holders for the code: Louison Cahen-Fourot and Nelo Magalhães. Year: 2023.
+The data constructed by Louison Cahen-Fourot and Nelo Magalhães and the code are shared under a [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). Copyright holders for the code: Louison Cahen-Fourot and Nelo Magalhães. Year: 2023.
 
 __For raw data from other original providers (e.g. Eora, OECDStat, Ameco, Penn World Tables), any licence from these providers applying to their data has precedence over CC-BY-NC-SA 4.0__. For Eora, see: [https://worldmrio.com/licensing.jsp](https://worldmrio.com/licensing.jsp). For OECDStat, see: [https://www.oecd.org/termsandconditions/](https://www.oecd.org/termsandconditions/). For Ameco, see: [https://commission.europa.eu/legal-notice_en#copyright-notice](https://commission.europa.eu/legal-notice_en#copyright-notice). For Penn World Tables, see: [https://www.rug.nl/ggdc/productivity/pwt/?lang=en](https://commission.europa.eu/legal-notice_en#copyright-notice).
 
