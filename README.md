@@ -3,6 +3,9 @@ This repository contains the R code and data to replicate figures in __Cahen-Fou
 
 The code formats data in long format and generates the figures in order of appearance in the main article and the technical appendix.
 
+replication package's persistent identifier: [![DOI](https://zenodo.org/badge/713346180.svg)](https://zenodo.org/doi/10.5281/zenodo.10091573)
+
+
 ---
 Make sure you have the dataset _Cahen-Fourot_Magalhaes_2023_Accumulation-metabolism_nexus_SER_replication_data.xlsx_ that you find in the same folder. This file contains the all the series displayed on the figures. We recommend to use the _Cahen-Fourot_Magalhaes_2023_Accumulation-metabolism_nexus_SER_replication.rproj_ file to ensure that the code runs in the correct working directory.
 
