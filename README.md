@@ -3,7 +3,7 @@ This repository contains the R code and data to replicate figures in __Cahen-Fou
 
 The code formats data in long format and generates the figures in order of appearance in the main article and the technical appendix.
 
-replication package's persistent identifier: [![DOI](https://zenodo.org/badge/713346180.svg)](https://zenodo.org/doi/10.5281/zenodo.10091573)
+Replication package's persistent identifier: [![DOI](https://zenodo.org/badge/713346180.svg)](https://zenodo.org/doi/10.5281/zenodo.10091573)
 
 
 ---
