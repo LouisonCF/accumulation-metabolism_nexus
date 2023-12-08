@@ -7,9 +7,9 @@ Replication package's persistent identifier: [![DOI](https://zenodo.org/badge/71
 
 
 ---
-Make sure you have the dataset _Cahen-Fourot_Magalhaes_2023_Accumulation-metabolism_nexus_SER_replication_data.xlsx_ that you find in the same folder. This file contains the all the series displayed on the figures. We recommend to use the _Cahen-Fourot_Magalhaes_2023_Accumulation-metabolism_nexus_SER_replication.rproj_ file to ensure that the code runs in the correct working directory.
+Make sure you have the dataset _Cahen-Fourot_Magalhaes_2023_Accumulation-metabolism_nexus_SER_replication_data.xlsx_ that you find in the same folder. This file contains all the series displayed on the figures. We recommend to use the _Cahen-Fourot_Magalhaes_2023_Accumulation-metabolism_nexus_SER_replication.rproj_ file to ensure that the code runs in the correct working directory.
 
-Make sure your R version and the packages are up-to-date! This code was tested under R 4.3.1.
+Make sure your R version and the packages are up-to-date! This code was tested under R 4.3.1, on both Mac OS and Windows.
 
 ## Results
 
